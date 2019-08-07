@@ -18,4 +18,4 @@
 #引用变量 echo ${STR_A}string  或者 echo $STR_A STRING  
 
 #永久变量  环境变量
-
+echo $PATH
